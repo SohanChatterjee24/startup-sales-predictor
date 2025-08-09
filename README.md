@@ -10,15 +10,22 @@ XGBoost(https://xgboost.readthedocs.io/)
 
 🚀 Usage
 Run in order:
+
 01_eda.ipynb
+
 02_preprocessing.ipynb
+
 03_modeling.ipynb
+
 04_evaluation.ipynb
 
 🐍 Run Python Scripts
 src/01_eda.py
+
 src/02_preprocessing.py
+
 src/03_modeling.py
+
 src/04_evaluation.py
 
 📊 Workflow
