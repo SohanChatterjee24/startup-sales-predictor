@@ -29,7 +29,11 @@ src/03_modeling.py
 src/04_evaluation.py
 
 📊 Workflow
+
 EDA – Data inspection, cleaning, visualizations.
+
 Preprocessing – Handling missing values, encoding, scaling.
+
 Modeling – Logistic Regression, Random Forest, XGBoost.
+
 Evaluation – Accuracy, Precision, Recall, F1, ROC AUC.
